@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.sahamassurance.demo",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "jhipsterDemo",
+    "packageName": "com.sahamassurance.demo",
+    "packageFolder": "com/sahamassurance/demo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2U5ZTg5N2Q0NjcyZGE0ZWVlOGUxZjAwZWJjZjRlYzBmMzIwZDdlN2MxMDk0MTgyYjA2ODQ2ZDQwN2Q3YmQwYzE0ZGNiZTEyNzFlNzczZTQ5Mzc4ZWE2NzhmMmM3Zjc3OTZlNTlhODc5NWJjODE3NWZiYzEwMDEzYzdlODFjZmE=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["gatling", "cucumber", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr", "ar-ly", "en"]
+  }
+}
